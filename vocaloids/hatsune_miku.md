@@ -1,4 +1,4 @@
-# hatsune
+# Hatsune Miku
 
 She is very cool
 
